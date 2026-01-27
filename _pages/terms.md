@@ -4,7 +4,6 @@ title: "Skills"
 ---
 
 {% include base_path %}
-
 ## Languages
 
 C++, JavaScript, HTML, CSS, Python
