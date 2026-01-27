@@ -61,7 +61,20 @@
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }, 
+    {
+      "language": "Indonesian",
+      "fluency": "Fluent"
+    },  
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }  
+  ],
   "interests": [],
   "references": [],
   "publications": [],
