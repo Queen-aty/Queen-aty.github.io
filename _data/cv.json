@@ -21,11 +21,32 @@
   },
   "work": [
     {
-       "position": "Shift Supervisor",
-        "startDate": "June 2025",
-        "endDate": "Present",
-         "company": "Starbucks",
-        "summary": "Experienced in leading baristas during high-volume periods by delegating tasks effectively and coaching team members to maintain company standards. Creates a welcoming environment, resolves customer issues promptly, and ensures guests receive high-quality service and beverages. Skilled in overseeing daily store operations, including cash handling, safe counts, break coordination, inventory monitoring, and maintaining compliance with company policies."
+      "position": "Shift Supervisor",
+      "startDate": "June 2025",
+      "endDate": "Present",
+      "company": "Starbucks",
+      "summary": "Experienced in leading baristas during high-volume periods by delegating tasks effectively and coaching team members to maintain company standards. Creates a welcoming environment, resolves customer issues promptly, and ensures guests receive high-quality service and beverages. Skilled in overseeing daily store operations, including cash handling, safe counts, break coordination, inventory monitoring, and maintaining compliance with company policies."
+    },
+    {
+      "position": "Barista",
+      "startDate": "July 2022",
+      "endDate": "June 2025",
+      "company": "Starbucks",
+      "summary": "Provide outstanding customer service by efficiently preparing handcrafted beverages while ensuring a positive customer experience. Thrive in high-volume environments by delivering prompt service and consistently meeting company quality standards. Work collaboratively with team members to manage inventory, restock supplies, and support the achievement of daily sales goals."
+    },
+    {
+      "position": "Cashier",
+      "startDate": "Feb 2021",
+      "endDate": "Jul 2022",
+      "company": "Popeyes",
+      "summary": "Accurately operate the cash register to process cash, credit, and digital payments while maintaining a balanced drawer. Deliver excellent customer service by efficiently handling orders and responding to customer questions in a friendly, professional manner."
+    },
+    {
+      "position": "Production Services",
+      "startDate": "June 2021",
+      "endDate": "Feb 2022",
+      "company": "Imprint",
+      "summary": "Operated various complex machines to diligently produce custom designed orders and maintained a well-organized workspace."
     }
   ],
   "education": [
