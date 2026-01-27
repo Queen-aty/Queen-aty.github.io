@@ -13,5 +13,4 @@ redirect_from:
 
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/Resume.pdf" class="btn btn--primary">Download Resume as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>
