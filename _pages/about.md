@@ -11,6 +11,6 @@ A Bit About Me
 ======
 I’m a fourth-year Computer Science student at the University of Houston with a strong interest in software development and problem-solving. I enjoy learning how systems work, improving my coding skills, and turning ideas into practical solutions.
 
-Alongside my studies, I work in a leadership role as a shift supervisor at Starbucks, where I developed communication, teamwork, and decision-making skills in a fast-paced environment. I bring that same responsibility and focus into my technical work and projects.
+Alongside my studies, I work in a leadership role as a shift supervisor at Starbucks, where I've developed communication, teamwork, and decision-making skills in a fast-paced environment. I bring that same responsibility and focus into my technical work and projects.
 
 I’m actively seeking opportunities to grow as a software developer and contribute to real-world projects.
