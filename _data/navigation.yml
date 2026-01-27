@@ -10,12 +10,12 @@
 main:
   #- title: "Resume"
   # url: /resume/ 
-  
-  - title: "Resume"
-    url: /resume-json/
 
   - title: "Skills"
     url: /skills/    
     
   - title: "CV"
     url: /cv/
+
+  - title: "Resume"
+    url: /resume-json/
