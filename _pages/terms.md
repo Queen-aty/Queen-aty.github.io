@@ -19,4 +19,4 @@ Git, GitHub, Linux/Unix, VS Code
 
 ## Soft Skills
 
-Leadership, teamwork, communication, time management
+Problem-solving, Leadership, Communication, Teamwork, Time management, Adaptability
