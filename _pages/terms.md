@@ -11,7 +11,7 @@ modified: 2016-06-06
 
 C++, JavaScript, HTML, CSS, Python
 
-## Technical Area
+## Technical Areas
 
 Algorithms, Data Structures, Databases, System Programming
 
