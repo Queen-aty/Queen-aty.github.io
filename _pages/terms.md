@@ -1,7 +1,6 @@
 ---
 permalink: /skills/
 title: "Skills"
-modified: 2016-06-06
 ---
 
 {% include base_path %}
