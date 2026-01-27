@@ -11,11 +11,11 @@ C++, JavaScript, HTML, CSS, Python
 
 ## Technical Areas
 
-Algorithms, Data Structures, Databases, System Programming
+Software Development Fundamentals, Data Structures & Algorithms, Database Systems & SQL, Algorithm Analysis & Optimization
 
 ## Tools
 
-Git, GitHub, Linux/Unix, VS Code
+Git & GitHub, Linux/Unix & Terminal, VS Code, PostgreSQL & pgAdmin, Microsoft Office, Google Analytics
 
 ## Soft Skills
 
