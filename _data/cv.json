@@ -63,7 +63,7 @@
   "skills": [
     {
       "name": "Software",
-      "keywords": "C++, JavaScript, Python, HTML, CSS, Microsoft Office, Google Analytics"
+      "keywords": "C++", "JavaScript", "Python", "HTML", "CSS", "Microsoft Office", "Google Analytics"
     }
   ],
   "languages": [
