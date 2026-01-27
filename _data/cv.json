@@ -13,23 +13,30 @@
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "LinkedIn",
+        "username": "Queen Yuliandri",
+        "url": "www.linkedin.com/in/queen-yuliandri"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+     "position": "Shift Supervisor"
+      "company": "Starbucks"
+      "startDate": "June 2025"
+      "endDate": "Present"
+      "summary": "Experienced in leading baristas during high-volume periods by delegating tasks effectively and coaching team members to maintain company standards. Creates a welcoming environment, resolves customer issues promptly, and ensures guests receive high-quality service and beverages. Skilled in overseeing daily store operations, including cash handling, safe counts, break coordination, inventory monitoring, and maintaining compliance with company policies."
+    },
+    {
+      
+    },
+    {
+      
+    },
+    {
+      
+    }
+  ],
   "education": [
     {
       "institution": "University of Houston",
