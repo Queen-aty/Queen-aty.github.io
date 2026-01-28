@@ -14,8 +14,8 @@ main:
   - title: "Skills"
     url: /skills/    
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+   # url: /cv/
 
   - title: "Resume"
     url: /resume-json/
