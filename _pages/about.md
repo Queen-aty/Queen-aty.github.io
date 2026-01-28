@@ -15,4 +15,4 @@ Alongside my studies, I work in a leadership role as a shift supervisor at Starb
 
 I’m actively seeking opportunities to grow as a software developer and contribute to real-world projects.
 
-<div class="wordwrap">You can find the University of Houston Computer Science department page at<a href="{{cs.uh.edu}}">cs.uh.edu</a>.</div>
+<div class="wordwrap">You can find the University of Houston Computer Science department page at <a href="{{cs.uh.edu}}">cs.uh.edu</a>.</div>
