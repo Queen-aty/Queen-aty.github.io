@@ -14,3 +14,5 @@ I’m a fourth-year Computer Science student at the University of Houston with a
 Alongside my studies, I work in a leadership role as a shift supervisor at Starbucks, where I've developed communication, team management, and decision-making skills in a fast-paced environment. I bring that same responsibility and focus into my technical work and projects.
 
 I’m actively seeking opportunities to grow as a software developer and contribute to real-world projects.
+
+<div class="wordwrap">You can find the University of Houston Computer Science department page at<a href="{{cs.uh.edu}}">cs.uh.edu</a>.</div>
