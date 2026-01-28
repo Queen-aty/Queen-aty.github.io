@@ -18,5 +18,3 @@ I’m actively seeking opportunities to grow as a software developer and contrib
 {% if site.cs.uh.edu %}
   <div class="wordwrap">You can find the University of Houston Computer Science department page at <a href="{{site.cs.uh.edu}}">cs.uh.edu</a>.</div>
 {% endif %}
-
-{% include base_path %}
