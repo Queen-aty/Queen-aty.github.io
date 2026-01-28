@@ -1,3 +1,7 @@
+---
+permalink: /skills/
+title: "Skills"
+---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S26TRRM0DN"></script>
 <script>
@@ -7,10 +11,6 @@
 
   gtag('config', 'G-S26TRRM0DN');
 </script> 
----
-permalink: /skills/
-title: "Skills"
----
 
 {% include base_path %}
 ## Languages
