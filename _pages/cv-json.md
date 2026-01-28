@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Resume"
+permalink: /resume-json/
+author_profile: false
+redirect_from:
+  - /resume-json
+---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S26TRRM0DN"></script>
 <script>
@@ -7,14 +15,6 @@
 
   gtag('config', 'G-S26TRRM0DN');
 </script>
----
-layout: archive
-title: "Resume"
-permalink: /resume-json/
-author_profile: false
-redirect_from:
-  - /resume-json
----
 
 {% include base_path %}
 
