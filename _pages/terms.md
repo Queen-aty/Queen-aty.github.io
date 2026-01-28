@@ -6,7 +6,7 @@
   gtag('js', new Date());
 
   gtag('config', 'G-S26TRRM0DN');
-</script>
+</script> 
 ---
 permalink: /skills/
 title: "Skills"
