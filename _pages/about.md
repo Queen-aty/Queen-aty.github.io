@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Welcome!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S26TRRM0DN"></script>
 <script>
@@ -7,15 +15,6 @@
 
   gtag('config', 'G-S26TRRM0DN');
 </script> 
----
-permalink: /
-title: "Welcome!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 A Bit About Me 
 ======
 I’m a fourth-year Computer Science student at the University of Houston with a strong interest in software development and problem-solving. I enjoy learning how systems work, improving my coding skills, and turning ideas into practical solutions.
