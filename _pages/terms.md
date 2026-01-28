@@ -11,7 +11,6 @@ title: "Skills"
 
   gtag('config', 'G-S26TRRM0DN');
 </script> 
-
 {% include base_path %}
 ## Languages
 
